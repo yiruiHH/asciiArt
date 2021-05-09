@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "asciiArt": {
+      "commandName": "Project",
+      "commandLineArgs": "-p G:\\csharp_project\\asciiArt\\pineapple-m.jpg -c Red"
+    }
+  }
+}
