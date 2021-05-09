@@ -8,6 +8,6 @@ https://robertheaton.com/2018/06/12/programming-projects-for-advanced-beginners-
 1.build the code under the **.Net 5** with library **ImageMagick** and **CommandLineParser**
 
 2.command:
-  + asciiArt.exe -p <Path to image file> -c <color> [-i](True to invert image)
+  + asciiArt.exe -p [Path to image file] -c [color] [-i](True to invert image)
   + asciiArt.exe --help
   + asciiArt.exe --version
